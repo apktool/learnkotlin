@@ -3,3 +3,4 @@ plugins {
 }
 rootProject.name = "LearnKotlin"
 include("chapter01")
+include("chapter02")
